@@ -1,0 +1,19 @@
+{
+  "fsp": {
+    "config_root": "C:\\Users\\YOUR_USER\\AppData\\Roaming\\Fender\\Studio Pro 8",
+    "macros_dir": "C:\\Users\\YOUR_USER\\Documents\\Studio One\\Macros",
+    "plugins_catalog": "C:\\Users\\YOUR_USER\\AppData\\Roaming\\Fender\\Studio Pro 8\\x64\\Plugins-en.settings",
+    "plugin_presentation": "C:\\Users\\YOUR_USER\\AppData\\Roaming\\Fender\\Studio Pro 8\\PluginPresentation.settings",
+    "keyscheme": "C:\\Users\\YOUR_USER\\AppData\\Roaming\\Fender\\Studio Pro 8\\user.keyscheme",
+    "macro_group": "SdR",
+    "macro_prefix": "SdR_",
+    "snapshots_dir": "D:\\StudioOne\\Snapshots"
+  },
+  "streamdeck": {
+    "profiles_root": "C:\\Users\\YOUR_USER\\AppData\\Roaming\\Elgato\\StreamDeck\\ProfilesV3",
+    "studio_one_profile_uuid": "YOUR_STREAM_DECK_PROFILE_UUID"
+  },
+  "app": {
+    "backup_dir": "backups"
+  }
+}
